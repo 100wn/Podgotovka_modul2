@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Podgotovka_modul</string>
+    <string name="entrance_textView">Вход</string>
+    <string name="reg_textView">Регистрация</string>
+    <string name="entrance_button">Войти</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="reg_button">Зарегистрироваться</string>
+    <string name="number_reader_ticket_editText">Номер читательского билета</string>
+    <string name="password_editText">Пароль</string>
+</resources>
